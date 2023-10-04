@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pymeanshiftclustering
+Version: 0.1.0
+Summary: another version of sklearn.cluster.MeanShift with attraction labeling
+Home-page: https://github.com/otterrrr/pymeanshiftclustering
+Author: Taesik Yoon
+Author-email: taesik.yoon.02@gmail.com
+License: BSD-3-Clause
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: BSD-3-Clause license
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Operating System :: OS Independent
+
+Another version of sklearn.cluster.MeanShift that adapts labeling by attraction mechanism.
+The attraction mechanism function as connected component labeling powered by scipy
