@@ -1,3 +1,4 @@
+README.md
 pymeanshiftclustering.py
 setup.py
 pymeanshiftclustering.egg-info/PKG-INFO

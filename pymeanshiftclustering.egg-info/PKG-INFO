@@ -10,6 +10,9 @@ Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: BSD-3-Clause license
 Classifier: Topic :: Scientific/Engineering :: Information Analysis
 Classifier: Operating System :: OS Independent
+Requires-Dist: numpy
+Requires-Dist: sklearn
+Requires-Dist: scipy
 
 Another version of sklearn.cluster.MeanShift that adapts labeling by attraction mechanism.
 The attraction mechanism function as connected component labeling powered by scipy
