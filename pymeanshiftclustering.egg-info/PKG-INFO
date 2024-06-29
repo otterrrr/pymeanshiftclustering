@@ -11,7 +11,7 @@ Classifier: License :: OSI Approved :: BSD-3-Clause license
 Classifier: Topic :: Scientific/Engineering :: Information Analysis
 Classifier: Operating System :: OS Independent
 Requires-Dist: numpy
-Requires-Dist: sklearn
+Requires-Dist: scikit-learn
 Requires-Dist: scipy
 
 Another version of sklearn.cluster.MeanShift that adapts labeling by attraction mechanism.

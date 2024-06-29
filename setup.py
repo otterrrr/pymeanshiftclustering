@@ -14,7 +14,7 @@ setup(
     description=('another version of sklearn.cluster.MeanShift with attraction labeling'),
     long_description=long_description,
     py_modules=['pymeanshiftclustering'],
-    install_requires=['numpy','sklearn','scipy'],
+    install_requires=['numpy','scikit-learn','scipy'],
     author='Taesik Yoon',
     author_email='taesik.yoon.02@gmail.com',
     url='https://github.com/otterrrr/pymeanshiftclustering',
